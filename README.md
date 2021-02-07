@@ -1,4 +1,4 @@
-# clean_app
+# DoggoApp
 
 A new Flutter application.
 

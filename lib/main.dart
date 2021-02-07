@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Doggo",
+      title: "DoggoApp",
       theme: ThemeData(
         fontFamily: 'Montserrat',
         brightness: Brightness.light,

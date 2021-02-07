@@ -1,6 +1,6 @@
 # DoggoApp
 
-A new Flutter application.
+Clean Architecture Dog App.
 
 ## Getting Started
 
